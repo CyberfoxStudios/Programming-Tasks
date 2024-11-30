@@ -1,16 +1,17 @@
 ﻿#############
 ## Idea
 #############
-target/
-.idea/
-.idea
-.repository/
+### Comment block
+# target/
+# .idea/
+# .idea
+# .repository/
 
-1.JavaSyntax
-/2.JavaCore/
-/4.JavaCollections/
-/out/
-/CodeGymPlugin.properties
-/Instruction.png
-/out.log
-/out.log.*
+# 1.JavaSyntax
+# /2.JavaCore/
+# /4.JavaCollections/
+# /out/
+# /CodeGymPlugin.properties
+# /Instruction.png
+# /out.log
+# /out.log.*
